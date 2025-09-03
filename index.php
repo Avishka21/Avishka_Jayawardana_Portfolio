@@ -58,23 +58,6 @@
         <li><a href="#resume"><i class="bi bi-file-earmark-text navicon"></i> Resume</a></li>
         <li><a href="#portfolio"><i class="bi bi-images navicon"></i> Portfolio</a></li>
         <li><a href="#services"><i class="bi bi-hdd-stack navicon"></i> Services</a></li>
-        <li class="dropdown"><a href="#"><i class="bi bi-menu-button navicon"></i> <span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-          <ul>
-            <li><a href="#">Dropdown 1</a></li>
-            <li class="dropdown"><a href="#"><span>Deep Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-              <ul>
-                <li><a href="#">Deep Dropdown 1</a></li>
-                <li><a href="#">Deep Dropdown 2</a></li>
-                <li><a href="#">Deep Dropdown 3</a></li>
-                <li><a href="#">Deep Dropdown 4</a></li>
-                <li><a href="#">Deep Dropdown 5</a></li>
-              </ul>
-            </li>
-            <li><a href="#">Dropdown 2</a></li>
-            <li><a href="#">Dropdown 3</a></li>
-            <li><a href="#">Dropdown 4</a></li>
-          </ul>
-        </li>
         <li><a href="#contact"><i class="bi bi-envelope navicon"></i> Contact</a></li>
       </ul>
     </nav>
@@ -640,6 +623,107 @@
       </div>
 
     </section><!-- /Portfolio Section -->
+
+    <section id="portfolio" class="portfolio section light-background">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Portfolio</h2>
+        <p>Here are some of the projects I've worked on, showcasing my skills in web development, software engineering, and digital solutions.</p>
+      </div><!-- End Section Title -->
+
+      <div class="container">
+
+        <div class="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
+
+          <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
+            <li data-filter="*" class="filter-active">All</li>
+            <li data-filter=".filter-web">Web Development</li>
+            <li data-filter=".filter-app">App Development</li>
+            <li data-filter=".filter-system">Management Systems</li>
+          </ul><!-- End Portfolio Filters -->
+
+          <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-system">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/portfolio/auto-service.jpg" class="img-fluid" alt="Auto Car Service Center Management System">
+                <div class="portfolio-info">
+                  <h4>Auto Car Service Center Management System</h4>
+                  <p>SLIIT HND Final Project</p>
+                  <a href="assets/img/portfolio/auto-service.jpg" title="Auto Car Service Center Management System" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/portfolio/glossary.jpg" class="img-fluid" alt="Glossary Website">
+                <div class="portfolio-info">
+                  <h4>Glossary Website</h4>
+                  <p>Educational web platform</p>
+                  <a href="assets/img/portfolio/glossary.jpg" title="Glossary Website" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/portfolio/mobile-sale.jpg" class="img-fluid" alt="Mobile Phone Sale Website">
+                <div class="portfolio-info">
+                  <h4>Mobile Phone Sale Website</h4>
+                  <p>E-commerce platform</p>
+                  <a href="assets/img/portfolio/mobile-sale.jpg" title="Mobile Phone Sale Website" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/portfolio/pharmacy.jpg" class="img-fluid" alt="Pharmacy Website">
+                <div class="portfolio-info">
+                  <h4>Pharmacy Website</h4>
+                  <p>Healthcare e-commerce platform</p>
+                  <a href="assets/img/portfolio/pharmacy.jpg" title="Pharmacy Website" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-system">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/portfolio/bus-tracking.jpg" class="img-fluid" alt="Bus Tracking System">
+                <div class="portfolio-info">
+                  <h4>Bus Tracking System</h4>
+                  <p>CINEC Final Year Project</p>
+                  <a href="assets/img/portfolio/bus-tracking.jpg" title="Bus Tracking System" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/portfolio/rotec.jpg" class="img-fluid" alt="Rotec Automation Website">
+                <div class="portfolio-info">
+                  <h4>Rotec Automation Website</h4>
+                  <p>Full website development</p>
+                  <a href="assets/img/portfolio/rotec.jpg" title="Rotec Automation Website" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="http://www.rotecautomation.lk/" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+          </div><!-- End Portfolio Container -->
+
+        </div>
+
+      </div>
+
+    </section>
 
     <!-- Services Section -->
     <section id="services" class="services section">
