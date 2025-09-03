@@ -27,13 +27,6 @@
   <!-- Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: iPortfolio
-  * Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-  * Updated: Jun 29 2024 with Bootstrap v5.3.3
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 
 <body class="index-page">
@@ -52,11 +45,10 @@
     </a>
 
     <div class="social-links text-center">
-      <a href="#" class="twitter"><i class="bi bi-twitter-x"></i></a>
-      <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-      <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-      <a href="#" class="google-plus"><i class="bi bi-skype"></i></a>
-      <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+      <a href="https://www.facebook.com/profile.php?id=100079290213863" class="facebook"><i class="bi bi-facebook"></i></a>
+      <a href="https://www.instagram.com/avishka_vinod?igsh=MzNlNGNkZWQ4Mg==" class="instagram"><i class="bi bi-instagram"></i></a>
+      <a href="https://pin.it/4eydSTe" class="pinterest"><i class="bi bi-pinterest"></i></a>
+      <a href="https://www.linkedin.com/in/avishka-vinod-57723921a/" class="linkedin"><i class="bi bi-linkedin"></i></a>
     </div>
 
     <nav id="navmenu" class="navmenu">
@@ -121,30 +113,28 @@
           <div class="col-lg-8 content">
             <h2>Software Developer &amp; Web Developer.</h2>
             <p class="fst-italic py-3">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+              A dedicated professional with experience in web design, software development, digital marketing, and QA testing. Skilled in multiple programming languages and tools, with a background in IT education and extracurricular activities.
             </p>
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>21 september 2000</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>21 September 2000</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.avishka.com</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+94 75 2678742</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Kiribathgoda, Srilanka</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Kadawatha, Sri Lanka</span></li>
                 </ul>
               </div>
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>25</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>(BSc) in Software Engineering & Computer Science</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>24</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>BSc (Hons) in Computer Science & Software Engineering</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>avishkavinod1@gmail.com</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
                 </ul>
               </div>
             </div>
             <p class="py-3">
-              Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-              Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque.
+              Nationality: Sri Lankan. Languages: Sinhala (Mother Tongue), English (Capable). Marital Status: Single. School: Kirillawala Central College. Additional activities include being a Senior Prefect, IT Club member, swimming achievements, cricket player, and teaching ICT.
             </p>
           </div>
         </div>
@@ -204,7 +194,7 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Skills</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <p>Proficient in web design and development, software engineering, digital marketing, and QA testing. Key technical skills include programming languages and tools from my education and projects.</p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -228,9 +218,23 @@
             </div><!-- End Skills Item -->
 
             <div class="progress">
-              <span class="skill"><span>JavaScript</span> <i class="val">75%</i></span>
+              <span class="skill"><span>JavaScript</span> <i class="val">85%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div><!-- End Skills Item -->
+
+            <div class="progress">
+              <span class="skill"><span>PHP</span> <i class="val">90%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div><!-- End Skills Item -->
+
+            <div class="progress">
+              <span class="skill"><span>Python</span> <i class="val">85%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div><!-- End Skills Item -->
 
@@ -239,23 +243,37 @@
           <div class="col-lg-6">
 
             <div class="progress">
-              <span class="skill"><span>PHP</span> <i class="val">80%</i></span>
+              <span class="skill"><span>Java</span> <i class="val">80%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div><!-- End Skills Item -->
 
             <div class="progress">
-              <span class="skill"><span>WordPress/CMS</span> <i class="val">90%</i></span>
+              <span class="skill"><span>C++</span> <i class="val">75%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div><!-- End Skills Item -->
 
             <div class="progress">
-              <span class="skill"><span>Photoshop</span> <i class="val">55%</i></span>
+              <span class="skill"><span>React</span> <i class="val">80%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div><!-- End Skills Item -->
+
+            <div class="progress">
+              <span class="skill"><span>Node.js</span> <i class="val">75%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div><!-- End Skills Item -->
+
+            <div class="progress">
+              <span class="skill"><span>Laravel</span> <i class="val">85%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div><!-- End Skills Item -->
 
@@ -273,7 +291,7 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Resume</h2>
-        <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+        <p>Overview of my education, professional experience, and key projects based on my career journey.</p>
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -281,60 +299,164 @@
         <div class="row">
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-            <h3 class="resume-title">Sumary</h3>
+            <h3 class="resume-title">Summary</h3>
 
             <div class="resume-item pb-0">
-              <h4>Brandon Johnson</h4>
-              <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
+              <h4>Avishka Vinod Jayawardana</h4>
+              <p><em>Passionate Software Engineer with a BSc (Hons) in Computer Science & Software Engineering. Experienced in web development, software systems, digital marketing, and QA testing. Strong background in IT from education and hands-on projects.</em></p>
               <ul>
-                <li>Portland par 127,Orlando, FL</li>
-                <li>(123) 456-7891</li>
-                <li>alice.barkley@example.com</li>
+                <li>178/8 Sirima Bandaranayaka Mawatha, Mahara, Kadawatha, Sri Lanka</li>
+                <li>+94 75 2678742 / +94 77 2785087</li>
+                <li>avishkavinod1@gmail.com</li>
               </ul>
-            </div><!-- Edn Resume Item -->
+            </div><!-- End Resume Item -->
 
             <h3 class="resume-title">Education</h3>
             <div class="resume-item">
-              <h4>Master of Fine Arts &amp; Graphic Design</h4>
-              <h5>2015 - 2016</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
-            </div><!-- Edn Resume Item -->
+              <h4>BSc (Hons) Computer Science & Software Engineering Degree</h4>
+              <h5>2023</h5>
+              <p><em>CINEC Campus, Malabe</em></p>
+              <p>Completed degree with a focus on software engineering principles and practices.</p>
+            </div><!-- End Resume Item -->
 
             <div class="resume-item">
-              <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-              <h5>2010 - 2014</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p>
-            </div><!-- Edn Resume Item -->
+              <h4>BSc (Hons) Computer Science & Software Engineering HND</h4>
+              <h5>2020 - 2022</h5>
+              <p><em>SLIIT, Colombo</em></p>
+              <p>Higher National Diploma leading to the full degree.</p>
+            </div><!-- End Resume Item -->
+
+            <div class="resume-item">
+              <h4>Python Certificate Course</h4>
+              <h5>2023</h5>
+              <p><em>University of Moratuwa</em></p>
+              <p>Specialized course in Python programming.</p>
+            </div><!-- End Resume Item -->
+
+            <div class="resume-item">
+              <h4>Computer Networking Courses</h4>
+              <h5>2023</h5>
+              <p><em>Cisco</em></p>
+              <p>Certification in computer networking fundamentals.</p>
+            </div><!-- End Resume Item -->
+
+            <div class="resume-item">
+              <h4>HTML, Web Design, Python & CSS Certificate Course</h4>
+              <h5>2022</h5>
+              <p><em>Sololearn</em></p>
+              <p>Online courses covering web technologies and Python.</p>
+            </div><!-- End Resume Item -->
+
+            <div class="resume-item">
+              <h4>Diploma in English</h4>
+              <h5>2017</h5>
+              <p><em>Aquinas College of Higher Studies, Maradana</em></p>
+              <p>English language diploma to enhance communication skills.</p>
+            </div><!-- End Resume Item -->
+
+            <div class="resume-item">
+              <h4>G.C.E Advanced Level (IT Stream)</h4>
+              <h5>2018 - 2019</h5>
+              <p><em>Kirillawala Central College</em></p>
+              <p>Passed with focus on Information Technology.</p>
+            </div><!-- End Resume Item -->
+
+            <div class="resume-item">
+              <h4>G.C.E Ordinary Level</h4>
+              <h5>2015 - 2016</h5>
+              <p><em>Kirillawala Central College</em></p>
+              <p>Passed ordinary level examinations.</p>
+            </div><!-- End Resume Item -->
 
           </div>
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
             <h3 class="resume-title">Professional Experience</h3>
             <div class="resume-item">
-              <h4>Senior graphic design specialist</h4>
-              <h5>2019 - Present</h5>
-              <p><em>Experion, New York, NY </em></p>
+              <h4>Position at Amazoft Company</h4>
+              <h5>2024 - Present</h5>
+              <p><em>Amazoft Company</em></p>
               <ul>
-                <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
-                <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
-                <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
-                <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
+                <li>Contributed to software development and web projects.</li>
+                <li>Handled digital marketing and social media tasks.</li>
+                <li>Performed QA testing on applications.</li>
+                <li>Collaborated on team-based initiatives.</li>
               </ul>
-            </div><!-- Edn Resume Item -->
+            </div><!-- End Resume Item -->
 
             <div class="resume-item">
-              <h4>Graphic design specialist</h4>
-              <h5>2017 - 2018</h5>
-              <p><em>Stepping Stone Advertising, New York, NY</em></p>
+              <h4>Position at Rotec Automation Company</h4>
+              <h5>2022 - 2023</h5>
+              <p><em>Rotec Automation Company</em></p>
               <ul>
-                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-                <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+                <li>Developed full company website: http://www.rotecautomation.lk/</li>
+                <li>Managed digital marketing and social media handling.</li>
+                <li>Worked on automation-related software tasks.</li>
+                <li>Assisted in QA testing and software development.</li>
               </ul>
-            </div><!-- Edn Resume Item -->
+            </div><!-- End Resume Item -->
+
+            <div class="resume-item">
+              <h4>Internship</h4>
+              <h5>2022</h5>
+              <p><em>Union Assurance</em></p>
+              <ul>
+                <li>Gained hands-on experience in IT and software environments.</li>
+                <li>Assisted in web and software development tasks.</li>
+                <li>Supported digital marketing efforts.</li>
+                <li>Performed basic QA testing.</li>
+              </ul>
+            </div><!-- End Resume Item -->
+
+            <h3 class="resume-title">Projects</h3>
+            <div class="resume-item">
+              <h4>Bus Tracking System</h4>
+              <h5>2023</h5>
+              <p><em>CINEC Final Year Project</em></p>
+              <p>Developed a system for tracking buses in real-time.</p>
+            </div><!-- End Resume Item -->
+
+            <div class="resume-item">
+              <h4>Rotec Automation Company Full Website Development</h4>
+              <h5>2023</h5>
+              <p><em>Rotec Automation Company</em></p>
+              <p>Built the complete website: http://www.rotecautomation.lk/</p>
+            </div><!-- End Resume Item -->
+
+            <div class="resume-item">
+              <h4>Digital Marketing & Social Media Full Handling</h4>
+              <h5>2023</h5>
+              <p><em>Various Platforms</em></p>
+              <p>Managed social media and digital marketing campaigns.</p>
+            </div><!-- End Resume Item -->
+
+            <div class="resume-item">
+              <h4>Pharmacy Web Site</h4>
+              <h5>2022</h5>
+              <p><em>Personal Project</em></p>
+              <p>Created a website for pharmacy management.</p>
+            </div><!-- End Resume Item -->
+
+            <div class="resume-item">
+              <h4>Auto Car Service Center Management System</h4>
+              <h5>2021</h5>
+              <p><em>SLIIT HND Final Project</em></p>
+              <p>Developed a management system for auto car services.</p>
+            </div><!-- End Resume Item -->
+
+            <div class="resume-item">
+              <h4>Mobile Phone Sale Web Site</h4>
+              <h5>2020</h5>
+              <p><em>Personal Project</em></p>
+              <p>Built an e-commerce site for mobile phone sales.</p>
+            </div><!-- End Resume Item -->
+
+            <div class="resume-item">
+              <h4>Glossary Web Site</h4>
+              <h5>2020</h5>
+              <p><em>Personal Project</em></p>
+              <p>Created a glossary website for reference purposes.</p>
+            </div><!-- End Resume Item -->
 
           </div>
 
@@ -525,7 +647,7 @@
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Services</h2>
-        <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+        <p>Offering expertise in web and software development, digital marketing, QA testing, and more, based on my skills and experience.</p>
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -533,51 +655,51 @@
         <div class="row gy-4">
 
           <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="100">
-            <div class="icon flex-shrink-0"><i class="bi bi-briefcase"></i></div>
+            <div class="icon flex-shrink-0"><i class="bi bi-globe"></i></div>
             <div>
-              <h4 class="title"><a href="service-details.html" class="stretched-link">Lorem Ipsum</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <h4 class="title"><a href="service-details.html" class="stretched-link">Web Design & Development</a></h4>
+              <p class="description">Creating responsive and efficient websites using HTML, CSS, JavaScript, PHP, Laravel, React, and Node.js.</p>
             </div>
           </div>
           <!-- End Service Item -->
 
           <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon flex-shrink-0"><i class="bi bi-card-checklist"></i></div>
+            <div class="icon flex-shrink-0"><i class="bi bi-code-slash"></i></div>
             <div>
-              <h4 class="title"><a href="service-details.html" class="stretched-link">Dolor Sitema</a></h4>
-              <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+              <h4 class="title"><a href="service-details.html" class="stretched-link">Software Development</a></h4>
+              <p class="description">Building robust software applications with Python, Java, C++, and other tools for various domains.</p>
             </div>
           </div><!-- End Service Item -->
 
           <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="300">
-            <div class="icon flex-shrink-0"><i class="bi bi-bar-chart"></i></div>
+            <div class="icon flex-shrink-0"><i class="bi bi-phone"></i></div>
             <div>
-              <h4 class="title"><a href="service-details.html" class="stretched-link">Sed ut perspiciatis</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+              <h4 class="title"><a href="service-details.html" class="stretched-link">App Development</a></h4>
+              <p class="description">Developing mobile and web applications focused on user experience and functionality.</p>
             </div>
           </div><!-- End Service Item -->
 
           <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="400">
-            <div class="icon flex-shrink-0"><i class="bi bi-binoculars"></i></div>
+            <div class="icon flex-shrink-0"><i class="bi bi-megaphone"></i></div>
             <div>
-              <h4 class="title"><a href="service-details.html" class="stretched-link">Magni Dolores</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+              <h4 class="title"><a href="service-details.html" class="stretched-link">Digital Marketing & Social Media</a></h4>
+              <p class="description">Managing campaigns, content creation, and social media handling to boost online presence.</p>
             </div>
           </div><!-- End Service Item -->
 
           <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="500">
-            <div class="icon flex-shrink-0"><i class="bi bi-brightness-high"></i></div>
+            <div class="icon flex-shrink-0"><i class="bi bi-bug"></i></div>
             <div>
-              <h4 class="title"><a href="service-details.html" class="stretched-link">Nemo Enim</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+              <h4 class="title"><a href="service-details.html" class="stretched-link">QA Testing</a></h4>
+              <p class="description">Providing basic quality assurance testing to ensure software reliability and performance.</p>
             </div>
           </div><!-- End Service Item -->
 
           <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="600">
-            <div class="icon flex-shrink-0"><i class="bi bi-calendar4-week"></i></div>
+            <div class="icon flex-shrink-0"><i class="bi bi-microsoft"></i></div>
             <div>
-              <h4 class="title"><a href="service-details.html" class="stretched-link">Eiusmod Tempor</a></h4>
-              <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+              <h4 class="title"><a href="service-details.html" class="stretched-link">MS Office Solutions</a></h4>
+              <p class="description">Utilizing MS Office for data processing, reporting, and productivity enhancements.</p>
             </div>
           </div><!-- End Service Item -->
 
@@ -719,7 +841,7 @@
                 <i class="bi bi-geo-alt flex-shrink-0"></i>
                 <div>
                   <h3>Address</h3>
-                  <p>178/8 Sirima Bandaranayaka Mawatha,Mahara,Kadawatha</p>
+                  <p>178/8 Sirima Bandaranayaka Mawatha, Mahara, Kadawatha</p>
                 </div>
               </div><!-- End Info Item -->
 
@@ -727,8 +849,8 @@
                 <i class="bi bi-telephone flex-shrink-0"></i>
                 <div>
                   <h3>Call Us</h3>
-                  <p>+94 757678742(whatsApp)</p>
-                  <p>+94 772785087</p>
+                  <p>+94 75 2678742 (WhatsApp)</p>
+                  <p>+94 77 2785087</p>
                 </div>
               </div><!-- End Info Item -->
 
